@@ -1,1 +1,3 @@
-yes
+#!/bin/bash
+$ wc -l file
+new_line_here
